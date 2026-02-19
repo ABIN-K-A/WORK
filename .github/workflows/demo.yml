@@ -9,4 +9,4 @@ jobs:
       - name: Use secret
         run: echo "Secret is $MY_SECRET"
         env:
-          MY_SECRET: ${{ secrets.MY_SECRET }}
+          MY_SECRET: ${{ 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 }}
